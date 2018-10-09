@@ -1,4 +1,4 @@
-# Importade planilha do excel em banco de dados Mysql
+# Importação de planilha do excel em banco de dados Mysql
  Este script desenvolvido e homologado em ```python3.5 e python3.6``` e realiza a importação de dados de uma planilha do excel, para um banco de dados Mysql.
      
 ## Instalação
